@@ -22,6 +22,9 @@
     self.window.backgroundColor = [UIColor whiteColor];
     [self setupRootViewController];
     [self.window makeKeyAndVisible];
+    
+    //这是我第一次添加 分支的注释
+    
     return YES;
 }
 
